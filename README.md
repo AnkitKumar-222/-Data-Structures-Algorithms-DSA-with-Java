@@ -191,7 +191,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For questions, suggestions, or improvements:
 
 Open an Issue on GitHub
-GitHub: https://github.com/AnkitKumar-222/
+GitHub: @AnkitKumar-222
 ⭐ Show Your Support
 If this repository helped you, please give it a star ⭐ on GitHub!
 
